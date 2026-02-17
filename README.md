@@ -1,3 +1,3 @@
 # Zera
 
-Um novo jeito de ser gamer
+Aparentemente, esse repositório é especial.
