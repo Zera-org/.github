@@ -1,3 +1,3 @@
 # Zera
 
-Um novo jeito de ser gamer
+Journaling prático e divertido de jogos e memórias!
